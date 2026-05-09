@@ -1,2 +1,2 @@
 # Project documentation moved
-See [development-proposal/README.md](development-proposal/README.md) for the proposal and related markdown files.
+See [development-proposal/overview.md](development-proposal/overview.md) for the proposal and related markdown files.
